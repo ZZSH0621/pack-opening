@@ -1,0 +1,90 @@
+{
+  "status": "passed",
+  "visual_qa": "Contact sheet reviewed at 192px and 64px on parchment and dark teal.",
+  "icons": [
+    {
+      "id": "chaos",
+      "svg_xml": "pass",
+      "no_external_assets": "pass",
+      "transparent_256px_export": "pass",
+      "binary_alpha": "pass",
+      "integer_4x_pixel_expansion": "pass",
+      "visible_bounds": [
+        28,
+        24,
+        232,
+        232
+      ]
+    },
+    {
+      "id": "regal",
+      "svg_xml": "pass",
+      "no_external_assets": "pass",
+      "transparent_256px_export": "pass",
+      "binary_alpha": "pass",
+      "integer_4x_pixel_expansion": "pass",
+      "visible_bounds": [
+        36,
+        24,
+        220,
+        228
+      ]
+    },
+    {
+      "id": "augmentation",
+      "svg_xml": "pass",
+      "no_external_assets": "pass",
+      "transparent_256px_export": "pass",
+      "binary_alpha": "pass",
+      "integer_4x_pixel_expansion": "pass",
+      "visible_bounds": [
+        36,
+        20,
+        224,
+        228
+      ]
+    },
+    {
+      "id": "exalted",
+      "svg_xml": "pass",
+      "no_external_assets": "pass",
+      "transparent_256px_export": "pass",
+      "binary_alpha": "pass",
+      "integer_4x_pixel_expansion": "pass",
+      "visible_bounds": [
+        24,
+        16,
+        232,
+        240
+      ]
+    },
+    {
+      "id": "transmutation",
+      "svg_xml": "pass",
+      "no_external_assets": "pass",
+      "transparent_256px_export": "pass",
+      "binary_alpha": "pass",
+      "integer_4x_pixel_expansion": "pass",
+      "visible_bounds": [
+        40,
+        20,
+        208,
+        232
+      ]
+    },
+    {
+      "id": "divine",
+      "svg_xml": "pass",
+      "no_external_assets": "pass",
+      "transparent_256px_export": "pass",
+      "binary_alpha": "pass",
+      "integer_4x_pixel_expansion": "pass",
+      "visible_bounds": [
+        44,
+        16,
+        212,
+        236
+      ]
+    }
+  ]
+}

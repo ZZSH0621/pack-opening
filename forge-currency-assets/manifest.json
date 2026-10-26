@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "style": "Original 64-grid code-native pixel sculptures",
+  "license": "Original artwork created for this project; no third-party source assets.",
+  "icons": [
+    {
+      "id": "transmutation",
+      "title": "蜕变石 · 潮生种",
+      "svg": "transmutation.svg",
+      "png": "transmutation.png",
+      "grid": 64,
+      "palette": 19,
+      "opaque_pixels": 1488
+    },
+    {
+      "id": "augmentation",
+      "title": "增幅石 · 双芽棱针",
+      "svg": "augmentation.svg",
+      "png": "augmentation.png",
+      "grid": 64,
+      "palette": 31,
+      "opaque_pixels": 1380
+    },
+    {
+      "id": "regal",
+      "title": "富豪石 · 赤冠印",
+      "svg": "regal.svg",
+      "png": "regal.png",
+      "grid": 64,
+      "palette": 16,
+      "opaque_pixels": 1675
+    },
+    {
+      "id": "exalted",
+      "title": "崇高石 · 翼阳契",
+      "svg": "exalted.svg",
+      "png": "exalted.png",
+      "grid": 64,
+      "palette": 11,
+      "opaque_pixels": 1512
+    },
+    {
+      "id": "chaos",
+      "title": "混沌石 · 裂相轮",
+      "svg": "chaos.svg",
+      "png": "chaos.png",
+      "grid": 64,
+      "palette": 34,
+      "opaque_pixels": 1752
+    },
+    {
+      "id": "divine",
+      "title": "神圣石 · 衡命漏",
+      "svg": "divine.svg",
+      "png": "divine.png",
+      "grid": 64,
+      "palette": 25,
+      "opaque_pixels": 1411
+    }
+  ]
+}
